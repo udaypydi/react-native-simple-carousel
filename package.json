@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "author": "Uday Bhaskhar",
+  "homepage": "https://github.com/udaypydi/react-native-simple-carousel/blob/master/README.MD",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
